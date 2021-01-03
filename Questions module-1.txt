@@ -1,0 +1,39 @@
+	Build Tools
+What are build tools? Why are they used?
+Explain gradle build life cycle.
+How can you run build?
+How can you run tests?
+How can you generate javadoc?
+What are a gradle project and task? 
+	a. How can you display the available projects? 
+	b. How can you display the available tasks?
+What is dependency management? Why is it needed? 
+	a. What is dependency? b. What is repository? 
+	c. What is scope of a dependency (configuration)? 
+	d. What is dependency cache? Why is it needed? 
+	e. What is transitive dependencies? 
+	f. Which kind of dependencies you know? Tell about module and file dependencies. 
+	g. What is the difference between api and implementation scopes? 
+	h. How can you display project dependencies?
+What is the use of multi-project builds? 
+	a. What do allprojects and subprojects sections mean?
+What is the use of plugins?
+What is gradle wrapper?
+
+	Git
+What does vcs mean? What vcs do you know? Name at least 2. Tell about the differences.
+Why do we need vcs? What principles are they built upon?
+What are the basic concepts of git (working tree, indices, branches, etc.)?
+What is HEAD? How can you detach a HEAD? How (and where) can you attach a head back?
+What is the difference between @~ and @^? Where can you use these expressions?
+What is rebasing, merging, cherry-picking? What is the difference between them?
+What is git GC? What is it used for? Can you interact wit git GC?
+Can you have multiple remote repositories for one local? Explain the answer.
+What is a bare repository?
+What is happening inside .git/ directory?
+What are hooks? How to use them? Where to find samples? What are they commonly used for? Investigate husky.
+What are merge conflicts? How to deal with them?
+What is vim? Where is it used in git?
+How to search for a word in vim?
+How to use regular expressions in vim?
+How to exit from vim?
